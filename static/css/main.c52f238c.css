@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.main__container{margin:0 auto;max-width:600px;padding:0 20px}@media(min-width:768px){.main__container{padding:0 30px}}@media(min-width:1024px){.main__container{padding:0 45px}}.main__title{text-align:center}.todo-item__title{text-decoration:none}.todo-item__title.finished{text-decoration:line-through}.todo-item__checkbox{transform:scale(1.5)}.todo-item__trash-button{color:red!important;font-size:22px!important}.form{width:100%}.button_wrapper{width:40%}
+/*# sourceMappingURL=main.c52f238c.css.map*/

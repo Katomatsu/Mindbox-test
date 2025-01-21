@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mindbox-test/static/css/main.c361ae0c.css",
-    "main.js": "/Mindbox-test/static/js/main.34d049e5.js",
+    "main.css": "/Mindbox-test/static/css/main.c52f238c.css",
+    "main.js": "/Mindbox-test/static/js/main.560a0a19.js",
     "index.html": "/Mindbox-test/index.html",
-    "main.c361ae0c.css.map": "/Mindbox-test/static/css/main.c361ae0c.css.map",
-    "main.34d049e5.js.map": "/Mindbox-test/static/js/main.34d049e5.js.map"
+    "main.c52f238c.css.map": "/Mindbox-test/static/css/main.c52f238c.css.map",
+    "main.560a0a19.js.map": "/Mindbox-test/static/js/main.560a0a19.js.map"
   },
   "entrypoints": [
-    "static/css/main.c361ae0c.css",
-    "static/js/main.34d049e5.js"
+    "static/css/main.c52f238c.css",
+    "static/js/main.560a0a19.js"
   ]
 }
