@@ -1,7 +1,7 @@
 import React from 'react';
 import { Flex, List } from 'antd';
 import { TodoModel } from '../../Models/TodoModel';
-import TodoItem from './TodoItem';
+import TodoItem from '../TodoItem/TodoItem';
 import { Filters } from '../../App';
 import FiltersPanel from '../FiltersPanel/FiltersPanel';
 

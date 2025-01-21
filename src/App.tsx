@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import './App.scss';
-import TodoList from './components/Todos/TodoList';
+import TodoList from './components/TodoList/TodoList';
 import { TodoModel } from './Models/TodoModel';
 import { Typography } from 'antd';
-import CreateTodosForm from './components/createTodosForm/CreateTodosForm';
+import CreateTodosForm from './components/CreateTodosForm/CreateTodosForm';
 
 export enum Filters {
   All = 'All',
