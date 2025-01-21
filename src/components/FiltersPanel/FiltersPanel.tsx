@@ -12,7 +12,7 @@ const FiltersPanel = ({onFilter, todosCount, onRemoveCompletedTodos}: FiltersPan
 
     return (
         <Flex justify={'space-between'} align={'center'}>
-            <Typography.Text > {todosCount} {todosCount === 1 ? 'Item' : 'Items'} left</Typography.Text>
+            <Typography.Text> {todosCount} {todosCount === 1 ? 'Item' : 'Items'} left</Typography.Text>
             <Segmented options={[Filters.All, Filters.Active, Filters.Completed]}
                        onChange={(value: Filters) => onFilter(value)} defaultValue={Filters.All}/>
             <Button onClick={onRemoveCompletedTodos} type={"text"}>Clear completed</Button>

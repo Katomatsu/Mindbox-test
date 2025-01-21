@@ -44,7 +44,3 @@ describe('Todos actions', () => {
     });
 
 });
-
-
-// fireEvent.change(input, { target: { value: 'brush teeth' } });
-// fireEvent.click(button);
