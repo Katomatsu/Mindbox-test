@@ -3,7 +3,7 @@ import './App.scss';
 import TodoList from './components/TodoList/TodoList';
 import { TodoModel } from './Models/TodoModel';
 import { Typography } from 'antd';
-import CreateTodosForm from './components/CreateTodosForm/CreateTodosForm';
+import CreateTodosForm from './components/somenewname/somenewName';
 
 export enum Filters {
   All = 'All',
