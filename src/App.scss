@@ -1,0 +1,17 @@
+.main__container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+    @media (min-width: 768px) {
+        padding: 0 30px;
+    }
+
+    @media (min-width: 1024px) {
+        padding: 0 45px;
+    }
+}
+
+.main__title {
+    text-align: center;
+}

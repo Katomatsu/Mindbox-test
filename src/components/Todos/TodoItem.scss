@@ -1,0 +1,16 @@
+.todo-item__title {
+    text-decoration: none;
+
+    &.finished {
+        text-decoration: line-through;
+    }
+}
+
+.todo-item__checkbox {
+    transform: scale(1.5);
+}
+
+.todo-item__trash-button {
+    color: red !important;
+    font-size: 22px !important;
+}
